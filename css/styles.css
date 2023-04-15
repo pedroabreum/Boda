@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	background-color: black;
+}
+
+h1 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+
+h2 {
+	color: white;
+}
+
+img {
+	height: 50%;
+	width: 50%;
+	border-radius: 200px 0 200px 0;
+}
+
+.final {
+	padding: 50px 0 50px 0;
+}
